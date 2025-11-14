@@ -1,3 +1,5 @@
+![Alt text](Analyzer_Detect_Friendly_Photos.png)
+
 
 
 **Project: Implemented an image analysis solution with Terraform to identify friendly images.**
