@@ -5,6 +5,7 @@
 
 ![Alt text](Test_Application_Photos.png)
 
+
 **Project: Implemented an image analysis solution with Terraform to identify friendly images.**
 
 **Overview:** Demonstrated an end-to-end deployment of Amazon Recognition using AWS Lambda and Terraform for fully automated, serverless infrastructure management.
